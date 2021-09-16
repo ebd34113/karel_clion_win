@@ -1,0 +1,33 @@
+2021-09-16:
+
+===================================
+Karel the Robot learns C
+CLion-project for windows platforms
+===================================
+
+Prerequisites:
+
+- MinGW
+
+URL: https://sourceforge.net/projects/mingw/files/Installer/mingw-get-setup.exe
+
+Install, and then start the MinGW Installation Manager
+(usually located at "c:\mingw\bin\mingw-get")
+Under "Basic Setup" choose the packages
+- mingw32-base
+- mingw32-gcc-g++
+
+
+
+- CLion
+
+Download link: https://www.jetbrains.com/clion/download/#section=linux
+Install and activate with free licence.
+Then, apply for a student's licence at
+https://www.jetbrains.com/shop/eform/students
+
+
+
+
+Then open the directory containing this README as a CLion project.
+
