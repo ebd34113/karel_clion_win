@@ -17,11 +17,13 @@ Under "Basic Setup" choose the packages
 - mingw32-base
 - mingw32-gcc-g++
 
+Then choose "Installation -> Apply Changes" in the menu to proceed.
+
 
 
 - CLion
 
-Download link: https://www.jetbrains.com/clion/download/#section=linux
+Download link: https://www.jetbrains.com/clion/download/#section=windows
 Install and activate with free licence.
 Then, apply for a student's licence at
 https://www.jetbrains.com/shop/eform/students
